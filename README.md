@@ -1,1 +1,3 @@
-# sieben07.github.io
+### sieben07 / Orhan Küçükyılmaz ###
+
+A jekyll blog about things i do!

@@ -1,0 +1,16 @@
+name: orhan.kyilmaz.de
+ftp_host: ftp.wp093.webpack.hosteurope.de
+ftp_dir: /orhan
+
+exclude: ['Gemfile', 'Gemfile.lock', 'optim', 'README.md', 'Rakefile', 'lftp_mirror.sh', .DS_Store]
+include: ['.htaccess']
+markdown: kramdown
+highlighter: rouge
+
+lsi: true
+
+#jekyll-press:
+#    exclude: ['htaccess', '.htaccess']
+#    js_options: {}
+#    css_options: {}
+#    html_options: {}
