@@ -6,16 +6,19 @@ title3: Glück
 category: random
 ---
 
-Ältester Brunnen der Welt ~7500 Jahre alt.
+Der älteste Brunnen der Welt ist etwa 7500 Jahre alt.
+(*Sachsen-Anhalt*)
 
-(Sachen Anhalt)
+Aber Münzen sind nur zwischen 2600 und 4000 Jahre alt.
+(*Je nachdem, was als erste Münze akzeptiert wird*)
 
-Münzen zwischen ~2600 bis 4000 Jahre alt. (Wie man es nimmt)
-
-(Kann man beides ziemlich einfach mit der Suchmaschine der Wahl finden)  
+(*Beides lässt sich ziemlich leicht mit der Suchmaschine der Wahl herausfinden.*)  
 <!-- more start -->
-Die Frage:
 
-Was hat man die restlichen ~3000 Jahre in einen Brunnen geworfen um Glück zu haben?  
-So lange Menschen ihr Geld lieber in ein Brunnen werfen statt es einem Bedürftigen zu geben wird es kein Glück auf diesem Planeten geben.
+*Hier nun die Frage:*
+
+Was hat man in den übrigen 3000 Jahren in einen Brunnen geworfen, um Glück zu erlangen?
+
+*Mein Gedanke dazu:*  
+Solange Menschen ihr Geld lieber in einen Brunnen werfen, als es einem Bedürftigen zu geben, wird es kein Glück auf diesem Planeten geben.
 <!-- more end-->
