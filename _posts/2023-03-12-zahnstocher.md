@@ -6,8 +6,8 @@ title3: Geschichten von meinem Vater
 category: vater
 ---
 
-Meine Familie würde sagen, wir sind Schwarzmeer-Türken. Wir essen Fisch und lernen schwimmen, bevor wir gehen lernen.
-Wir tanzen … und habe ich schon erwähnt, wir essen Fisch? Als ich 13 oder 14 Jahre alt war, sagte ich zu meinem Vater: „Ich will Vegetarier werden.“ Ich erwartete keine
+Meine Familie würde sagen, wir sind Schwarzmeer-Türken. Wir essen Fisch und lernen schwimmen, bevor wir gehen lernen.  
+Wir tanzen … und habe ich schon erwähnt, dass wir Fisch essen? Als ich 13 oder 14 Jahre alt war, sagte ich zu meinem Vater: „Ich will Vegetarier werden.“ Ich erwartete keine  
 <!-- more start -->
 besonders freundliche Antwort von ihm. Er schaute mich lange an und meinte: „Aber Fisch, Fisch ist kein Fleisch, du isst doch noch Fisch … wir essen Fisch?“
 
