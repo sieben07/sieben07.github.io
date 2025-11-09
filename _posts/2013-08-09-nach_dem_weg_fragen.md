@@ -11,3 +11,4 @@ Eines Tages stellte ein junger Mann Orhan-fu-tzu folgende Frage:
 Orhan-fu-tzu dachte eine Weile über die Frage nach und antwortete
 mit diesen Worten: "Wer nach Gerechtigkeit sucht, sollte nicht
 nach dem Weg fragen."
+<!-- more end -->

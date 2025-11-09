@@ -8,15 +8,16 @@ category: videospiele
 
 ![OPL 2014](/assets/img/opl072014.png "Seven points left")
 
-Ramadan und Urlaub haben mir die Gelegenheit gegeben,  
+Ramadan und der Urlaub haben mir die Zeit gegeben,  
 an diesem Spiel weiterzuarbeiten.
 
 <!-- more start -->  
 
 Nach fast zwei Jahren geht es endlich weiter.  
-Ich nutze inzwischen [Tiled](http://www.mapeditor.org/ "Tiled map editor") zur Erstellung der Level.  
-Bis die Kollision zuverlässig funktioniert, wird es allerdings noch ein wenig dauern.
+Ich benutze jetzt [Tiled](http://www.mapeditor.org/ "Tiled map editor") zum Erstellen der Level.  
+Es wird noch ein wenig Zeit vergehen, bis die Kollision  
+richtig funktioniert.
 
-Als Nächstes widme ich mich der Musik und den akustischen Effekten.
+Als Nächstes werde ich mich um die Musik und die akustischen Effekte kümmern.
 
 <!-- more end -->
