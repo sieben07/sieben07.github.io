@@ -107,9 +107,9 @@ Der Mann mit dem Hammer hustete. Er hatte zu viel Rauch eingeatmet. Doch bevor e
 „Ich bin der Fyrste Mann Aedel und das ist Ormon der Henker. Wir bedauern euren Verlust." Er ließ einen Herzschlag vergehen. „Wir folgen dem weißen Raben. Wir brauchen Pferde."
 Niemand antwortete.
 Die beiden Männer drehten sich um, schauten, wo der Rabe war, und gingen los. Hinter ihnen knisterten die kleinen Feuer. Fast friedlich. Als hätten die Flammen vergessen, was sie angerichtet hatten — und wen sie behalten hatten.
-Sannr stritt mit seiner Mutter. Er hörte, wie die Männer noch kämpften auf dem Weg hinaus, zurück zum Wald. Er riss sich los, bahnte sich seinen Weg — bewaffnet mit einem Stein — zu einer Scheune, die noch nicht brannte. Sein Herz blieb fast stehen, zum Glück waren keine Männer in der Scheune, nur zwei Pferde, ein Glück. Seine Hand glitt über das
+Sannr stritt mit seiner Mutter. Er hörte, wie die Männer noch kämpften auf dem Weg hinaus, zurück zum Wald. Er riss sich los, bahnte sich seinen Weg — bewaffnet mit einem Stein — zu einer Scheune, die noch nicht brannte. Sein Herz blieb fast stehen, doch es waren keine Männer in der Scheune, nur zwei Pferde, ein Glück. Seine Hand glitt über das
 Holz, er hatte seinen Namen in die Balken geritzt und einen zweiten. Er riss seinen
-Blick los. Er schnappte beide und schlich um die Hütten.
+Blick los. Er schnappte beide Pferde und schlich um die Hütten.
   
   
 Um unbemerkt aus dem Dorf zu entkommen, wählte er einen riskanten Umweg. Doch er beeilte sich und schaffte es, Aedel und Ormon noch rechtzeitig am Waldrand einzuholen.
@@ -123,9 +123,9 @@ Tränen in den Augen und blutigen Fingern. Der Regen trommelte unaufhörlich auf
 Neben ihm kauerten zwei Fremde, ihre Hände wie seine in grobe Eisenfesseln gelegt. Der eine, mit eingefallenem Gesicht und wachen, dunklen Augen, wirkte angespannt. Der andere, von kräftiger Statur, starrte stur geradeaus, die Welt um sich herum scheinbar ausblendend.
 "Ich bin Ture und das ist Vare", fing Ture an. "Erzähl weiter, vom weißen Raben und dem schwarzen Wolf." Vare nickte stumm.
 Sannr zögerte, doch dann sagte er: "Das war es, nachdem ich niedergeschlagen wurde,
-habe ich die beiden Männer nicht mehr gesehen und sitze jetzt mit euch in diesem
+habe ich die beiden Männer nicht mehr gesehen und sitze jetzt mit euch beiden in diesem
 Käfig und weiß nicht, was mit meinem Dorf ist, mit meiner Mutter, meinen Brüdern.
-Wo fahren wir hin? Was passiert mit uns?" Seine Stimme brach und er senkte den Blick wieder. Ture versuchte, die Hand auf die Schulter von Sannr zu legen, doch die Fesseln waren zu kurz. "Auch wenn Vare es nicht wahrhaben will, Junge, jetzt sitzen wir zusammen da drin."
+Wo fahren wir hin? Was passiert mit uns?" Seine Stimme brach und er senkte den Blick wieder. Ture versuchte, die Hand auf die Schulter von Sannr zu legen, doch die Fesseln waren zu kurz. "Auch wenn Vare es nicht wahrhaben will, Junge, jetzt sitzen wir zusammen hier drin."
   
   
 Sannr blickte in die Ferne, vielleicht war doch etwas im Regen. Oder am Waldsaum.
