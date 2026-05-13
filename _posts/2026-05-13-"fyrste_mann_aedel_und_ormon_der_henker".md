@@ -7,7 +7,7 @@ category: "fuh"
 ---
 
 Ich wünschte, ich könnte erzählen vom Frieden und wie man ihn findet,
-für sich und für anderen.
+für sich und für die anderen.
   
   
 Ich wünschte, jemand hätte es mir beigebracht, oder es gäbe Geschichten, Lieder
