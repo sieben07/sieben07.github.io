@@ -31,7 +31,7 @@ Ich würde gerne von Helden erzählen.
 
 Vielleicht ist es besser, diese Geschichte nicht zu lesen.
 
-Vielleicht ist etwas Schönes zwischen den Worten, gleich einer Blume, die
+Vielleicht vesteckt sich etwas Schönes zwischen den Worten, gleich einer Blume, die
 gefunden werden will, auf einem verbrannten Feld.
 
 Doch dies, dies ist keines dieser Gedichte, keines dieser Lieder und keines
