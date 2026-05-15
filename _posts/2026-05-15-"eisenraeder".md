@@ -27,7 +27,7 @@ ein Mann. Er - er hängt fast. Die Hände nach oben gefesselt, er Blutet"
   
 „An der Brust. Langsam." Sannr zögerte. „Hinter ihm sitzt noch jemand. Im Dunkeln
 Ich kann ihn kaum sehen."
-
+<!-- more start -->
 Ture sagte nichts. Varek auch nicht.
 Dann sprach der stehende Mann.
 
@@ -76,3 +76,4 @@ Sannr ließ die Gitterstäbe los. Er lehnte sich gegen die Wand, schloss die Aug
 Neben ihm saß Varek. Die Schulter hing. Er sagte nichts.
 
 Unter Sannr, ins Holz geritzt: sein Name.
+<!-- more end -->
