@@ -30,7 +30,7 @@ Die Feuer knisterten. Der Regen zischte an den Flammen.
 „An der Brust. Langsam.“  
 Sannr zögerte.  
 „Hinter ihm sitzt noch jemand. Im Dunkeln. Ich kann ihn kaum sehen.“
-<!-- start moere -->
+<!-- more start -->  
 Ture sagte nichts. Varek auch nicht.
 
 Dann sprach der stehende Mann.
